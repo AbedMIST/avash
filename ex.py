@@ -57,3 +57,4 @@ while True:
 del(camera)
 
 
+#https://docs.google.com/document/d/1VRbTdGiFAJraoXKogXxTESRDqVsM2stHeezqQQWIoTs/edit?usp=sharing
